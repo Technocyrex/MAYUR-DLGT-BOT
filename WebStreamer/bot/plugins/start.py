@@ -30,12 +30,12 @@ HELP_TEXT = """
 <i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://github.com/MayurSakule'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
+<b>⚜ Mʏ ɴᴀᴍᴇ : 𝐌𝐀𝐘𝐔𝐑 𝐃𝐋𝐆𝐓 𝐁𝐎𝐓</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/MAYUR_SAKULE'>3.0.1</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/MayurSakule/MAYUR-DLGT-BOT'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔸GitHub : <a href='https://github.com/MayurSakule'>Fᴏʟʟᴏᴡ</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MAYUR_SAKULE'>𝕄𝕒𝕪𝕦𝕣 𝕊𝕒𝕜𝕦𝕝𝕖</a></b>\n
-<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/MAYUR_SAKULE'>[ 18-JULY-2022 ] 02:30 PM</a></b>"""
+<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/MAYUR_SAKULE'>[ 21-JULY-2022 ] 02:00 PM</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
